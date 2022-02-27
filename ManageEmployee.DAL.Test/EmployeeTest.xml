@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <name>Ram</name>
+    <age>30</age>
+    <designation>Software Engineer</designation>
+  </employee>
+  <employee>
+    <name>Rahim</name>
+    <age>40</age>
+    <designation>Senior Developer</designation>
+  </employee>
+  <employee>
+    <name>Veerappan</name>
+    <age>34</age>
+    <designation>Software Engineer</designation>
+    <address>
+      <doorNo>B 3/1</doorNo>
+      <street>Anna Nagar</street>
+      <city>Madurai</city>
+      <state>Tamil Nadu</state>
+      <pincode>625020</pincode>
+    </address>
+    <qualification>
+      <degree>M.Tech</degree>
+    </qualification>
+  </employee>
+  <employee>
+    <name>Saiadh Baash</name>
+    <age>3</age>
+    <designation>sadas</designation>
+    <address>
+      <doorNo>No.16</doorNo>
+      <street>LIG Colony</street>
+      <city>Madurai</city>
+      <state>TN</state>
+      <pincode>625020</pincode>
+    </address>
+  </employee>
+  <employee>
+    <name>Laksh</name>
+    <age>45</age>
+    <designation>Adad</designation>
+  </employee>
+</employees>
