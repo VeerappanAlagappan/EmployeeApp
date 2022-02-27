@@ -1,0 +1,12 @@
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\bin\Release\netcoreapp3.1\ManageEmployee.BAL.deps.json
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\bin\Release\netcoreapp3.1\ManageEmployee.BAL.dll
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\bin\Release\netcoreapp3.1\ManageEmployee.BAL.pdb
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\bin\Release\netcoreapp3.1\ManageEmployee.DAL.dll
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\bin\Release\netcoreapp3.1\ManageEmployee.DAL.pdb
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\obj\Release\netcoreapp3.1\ManageEmployee.BAL.csprojAssemblyReference.cache
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\obj\Release\netcoreapp3.1\ManageEmployee.BAL.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\obj\Release\netcoreapp3.1\ManageEmployee.BAL.AssemblyInfo.cs
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\obj\Release\netcoreapp3.1\ManageEmployee.BAL.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\obj\Release\netcoreapp3.1\ManageEmployee.BAL.csproj.CopyComplete
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\obj\Release\netcoreapp3.1\ManageEmployee.BAL.dll
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.BAL\obj\Release\netcoreapp3.1\ManageEmployee.BAL.pdb

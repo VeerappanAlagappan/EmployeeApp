@@ -1,0 +1,8 @@
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.DAL\obj\Debug\netcoreapp3.1\ManageEmployee.DAL.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.DAL\obj\Debug\netcoreapp3.1\ManageEmployee.DAL.AssemblyInfo.cs
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.DAL\obj\Debug\netcoreapp3.1\ManageEmployee.DAL.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.DAL\bin\Debug\netcoreapp3.1\ManageEmployee.DAL.deps.json
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.DAL\bin\Debug\netcoreapp3.1\ManageEmployee.DAL.dll
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.DAL\bin\Debug\netcoreapp3.1\ManageEmployee.DAL.pdb
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.DAL\obj\Debug\netcoreapp3.1\ManageEmployee.DAL.dll
+C:\Users\my pc\source\repos\EmployeeApp\ManageEmployee.DAL\obj\Debug\netcoreapp3.1\ManageEmployee.DAL.pdb

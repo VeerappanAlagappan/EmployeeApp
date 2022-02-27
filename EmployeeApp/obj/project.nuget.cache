@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "rzQoc5c/jorVyTFHGjJfg3hZ62O1LFulY10pGcXifbFFHWUbp52dnz9iqSwwRXdMNV6Ds55a1855xJAHmNWQiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\my pc\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.22\\microsoft.extensions.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.22\\microsoft.extensions.configuration.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.22\\microsoft.extensions.configuration.binder.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.logging\\3.1.22\\microsoft.extensions.logging.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.22\\microsoft.extensions.logging.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.22\\microsoft.extensions.logging.console.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.22\\microsoft.extensions.options.configurationextensions.3.1.22.nupkg.sha512",
+    "C:\\Users\\my pc\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
